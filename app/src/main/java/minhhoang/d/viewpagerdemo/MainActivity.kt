@@ -5,7 +5,7 @@ import android.support.v4.app.FragmentActivity
 import android.support.v4.view.PagerAdapter
 import kotlinx.android.synthetic.main.activity_main.*
 
-const val NUM_PAGES = 5
+const val NUM_PAGES = 3
 
 class MainActivity : FragmentActivity() {
 
